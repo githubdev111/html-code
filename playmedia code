@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>exersice 1-media player</title>
+    <meta name="description" content="here you can find funny audio and videos ">
+</head>
+
+<body>
+    <footer>
+        <div>
+            <center>
+                <h1>Music playlist</h1>
+            </center>
+        </div>
+    </footer>
+    <hr>
+    <main>
+        <div>
+            <h2>Audio music</h2>
+            <section><audio src="1.mp3.mp3" controls>audio one</audio></section>
+            <section><audio src="2.mp3.mp3" controls>audio two</audio></section>
+            <section><audio src="3.mp3.mp3" controls>audio three</audio></section>
+            <section><audio src="4.mp3.mp3" controls>audio four</audio></section>
+            <section><audio src="5.mp3.mp3" controls>audio five</audio></section>
+            <section><audio src="6.mp3.mp3" controls>audio six</audio></section>
+        </div>
+        <div>
+            <h2>video music</h2>
+
+            <section> <video src="1.mp4.mp4" height="200" controls muted autoplay>video one</video></section>
+
+            <section><iframe width="560" height="315"
+                    src="https://www.youtube.com/embed/XZwBNDGuWGU?si=taH5BD78Tsaz2ws4" title="YouTube video player"
+                    frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> video two</iframe></section>
+
+            <section> <video src="3.mp4.mp4">video three</vidio>
+            </section>
+            <section><video src="4.mp4.mp4">video four</video></section>
+            <section><video src="5.mp4.mp4">video five</video></section>
+            <section><video src="2.mp4.mp4">video six</video></section>
+
+
+        </div>
+    </main>
+    <hr>
+    <footer>
+        <center>
+            <div>
+                DO NOT COPY THIS CODE, MAKE YOUR OWN- (all rights riserved.)
+            </div>
+        </center>
+    </footer>
+</body>
+
+</html>
